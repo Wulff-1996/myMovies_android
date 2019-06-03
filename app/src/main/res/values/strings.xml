@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyMovie</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="POPULAR">POPULAR</string>
+    <string name="UPCOMING">UPCOMING</string>
+    <string name="TOP_RATED">TOP RATED</string>
+
+    <string name="AIRING_TODAY">TODAY</string>
+
+    <string name="MOVIES">MOVIES</string>
+    <string name="TV">TV</string>
+    <string name="top">TOP</string>
+    <string name="title_activity_details">Details</string>
+    <string name="my_list">My List</string>
+    <string name="search">Search</string>
+    <string name="discover">Discover</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_serach">SerachActivity</string>
+
+
+</resources>
